@@ -1,3 +1,40 @@
+## Video
+
+https://github.com/user-attachments/assets/2b86afce-0207-4039-898e-1f98631d48f3
+
+
+## ScreenShot
+
+<img width="1437" alt="Ekran Resmi 2024-07-18 00 48 17" src="https://github.com/user-attachments/assets/b59708fe-712b-4e59-8b36-3ec76f0f91ed">
+<img width="1437" alt="Ekran Resmi 2024-07-18 00 48 31" src="https://github.com/user-attachments/assets/904d91d4-635e-4e27-8472-b58f7fd398f7">
+
+![screencapture-localhost-5173-2024-07-18-00_45_24](https://github.com/user-attachments/assets/4aac3cd9-dad3-41e4-8c42-eedc7428e00d)
+
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- GSAP (Greensock)
+- Vite
+- Tailwind CSS
+
+
+## <a name="features">🔋 Features</a>
+
+👉 **Beautiful Subtle Smooth Animations using GSAP**: Enhanced user experience with seamless and captivating animations powered by GSAP.
+
+👉 **3D Model Rendering with Different Colors and Sizes**: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
+
+👉 **Custom Video Carousel (made with GSAP)**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
+
+👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+
+and many more, including code architecture and reusability 
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
