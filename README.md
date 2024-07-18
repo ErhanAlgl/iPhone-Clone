@@ -5,9 +5,6 @@ https://github.com/user-attachments/assets/2b86afce-0207-4039-898e-1f98631d48f3
 
 ## ScreenShot
 
-<img width="1437" alt="Ekran Resmi 2024-07-18 00 48 17" src="https://github.com/user-attachments/assets/b59708fe-712b-4e59-8b36-3ec76f0f91ed">
-<img width="1437" alt="Ekran Resmi 2024-07-18 00 48 31" src="https://github.com/user-attachments/assets/904d91d4-635e-4e27-8472-b58f7fd398f7">
-
 ![screencapture-localhost-5173-2024-07-18-00_45_24](https://github.com/user-attachments/assets/4aac3cd9-dad3-41e4-8c42-eedc7428e00d)
 
 
