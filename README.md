@@ -3,8 +3,7 @@
 https://github.com/user-attachments/assets/2b86afce-0207-4039-898e-1f98631d48f3
 
 ## Live Demo
-[Here]([https://2intech.vercel.app/](https://i-phone-clone-delta.vercel.app/))
-
+[Live Demo Link]([https://2intech.vercel.app/](https://i-phone-clone-delta.vercel.app/)
 
 ## ScreenShot
 
